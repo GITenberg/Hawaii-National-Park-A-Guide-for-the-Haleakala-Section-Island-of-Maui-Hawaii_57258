@@ -1,11 +1,16 @@
 _repo: Hawaii-National-Park-A-Guide-for-the-Haleakala-Section-Island-of-Maui-Hawaii_57258
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57258-h/images/cover.jpg
 creator:
   author:
     agent_name: Ruhle, George Cornelius
     gutenberg_agent_id: '49278'
     url: http://www.gutenberg.org/2009/agents/49278
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57258#Hawaii-National-Park-A-Guide-for-the-Haleakala-Section-Island-of-Maui-Hawaii
 gutenberg_issued: '2018-06-02'
 gutenberg_type: Text
 identifiers:
